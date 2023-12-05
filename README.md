@@ -1,6 +1,6 @@
 # Xtranslator
 
-Experience seamless communication with our Xtranslator! Convert spoken English into expressive sign language instantly. Record or input your message, and watch it transform into clear sign language gestures. Bridging the gap between hearing and Deaf communities, our user-friendly tool fosters inclusive connections effortlessly.
+Experience seamless communication with Xtranslator! Convert spoken English into expressive sign language instantly. Record or input your message, and watch it transform into clear sign language gestures. Bridging the gap between hearing and Deaf communities, our user-friendly tool fosters inclusive connections effortlessly.
 
 ## Getting Started
 
